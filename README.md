@@ -4,24 +4,33 @@
   ┃  3rd-Year CSE • Full-Stack Dev • CyberSec Enthusiast  ┃
   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- GitHub stats section -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=Anshulrazz&style=flat-square&color=1E90FF" alt="Profile Views" />
+      <a href="https://github.com/Anshulrazz?tab=followers">
+        <img src="https://img.shields.io/github/followers/Anshulrazz?style=social" alt="Followers" />
+      </a>
+      <a href="https://github.com/Anshulrazz?tab=stars">
+        <img src="https://img.shields.io/github/stars/Anshulrazz?style=social" alt="Stars" />
+      </a>
+    </p>
+  </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshulrazz&style=flat-square&color=1E90FF" alt="Profile Views" />
-  <a href="https://github.com/Anshulrazz?tab=followers">
-    <img src="https://img.shields.io/github/followers/Anshulrazz?style=social"('*') alt="Followers" />
-  </a>
-  <a href="https://github.com/Anshulrazz?tab=stars">
-    <img src="https://img.shields.io/github/stars/Anshulrazz?style=social" alt="Stars" />
-  </a>
-</p>
+  <!-- Profile image -->
+  <div>
+    <img src="anshu.png" alt="Anshul's Profile" style="max-width: 150px; border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
 ## 👋 About Me
 
-Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engineering** student from **Kasganj, Uttar Pradesh**, pursuing **BCA** at **GLA University, Mathura**. I'm a passionate **full-stack developer** and **cybersecurity enthusiast** dedicated to building **secure, scalable**, and **user-centric** web applications.
+Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engineering** student from **Kasganj, Uttar Pradesh**, pursuing **BCA** at **GLA University, Mathura**. I'm a passionate **full-stack developer** and **cybersecurity enthusiast** dedicated to building **secure, scalable**, and **user-centric** web applications. As the **Founder** of **[AnshTech Solutions](https://anshtechsolutions.tech)**, I lead a startup focused on delivering innovative and secure web solutions.
 
-- 🛡️ **Founder** of **AnshTech Solutions**, a startup focused on secure web solutions  
+- 🛡️ **Founder** of **[AnshTech Solutions](https://anshtechsolutions.tech)**  
 - 🔭 Working on a **Zero-Trust Security Dashboard** for real-time threat monitoring  
 - 🌱 Exploring **AI-driven intrusion detection systems** and **GraphQL APIs**  
 - 💡 Advocate for open-source and secure coding practices  
@@ -46,7 +55,7 @@ Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engin
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 
 ### 🔙 Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
@@ -71,7 +80,7 @@ Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engin
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B) 
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=google-bigquery&logoColor=white&style=flat-square)
 
 ### 🔐 Cybersecurity Tools
@@ -208,16 +217,19 @@ Recent Posts:
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://anshtechsolutions.tech">
+    <img src="https://img.shields.io/badge/AnshTech%20Solutions-anshtechsolutions.tech-FF4500?style=flat-square" alt="AnshTech Solutions" />
+  </a>
   <a href="https://www.anshulkumar.tech">
     <img src="https://img.shields.io/badge/Portfolio-anshulkumar.tech-1E90FF?style=flat-square" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/anshulrazz">
+  <a href="[https://linkedin.com/in/anshulrazz](https://www.linkedin.com/in/anshul-kumar-b92421306/)">
     <img src="https://img.shields.io/badge/LinkedIn-@anshulrazz-0A66C2?style=flat-square" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@anshulkumar.tech">
     <img src="https://img.shields.io/badge/Email-contact@anshulkumar.tech-34C759?style=flat-square" alt="Email" />
   </a>
-  <a href="https://twitter.com/anshulrazz">
+  <a href="[https://twitter.com/anshulrazz](https://x.com/anshul_000012)">
     <img src="https://img.shields.io/badge/Twitter-@anshulrazz-1DA1F2?style=flat-square" alt="Twitter" />
   </a>
 </p>
