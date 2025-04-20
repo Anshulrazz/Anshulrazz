@@ -116,33 +116,6 @@ Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engin
 
 ---
 
-## 🔖 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Anshulrazz/bgremove">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=bgremove&theme=radical" alt="bgremove" />
-  </a>
-  <a href="https://github.com/Anshulrazz/Games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=Games&theme=radical" alt="Games" />
-  </a>
-  <a href="https://github.com/Anshulrazz/vermaji">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=vermaji&theme=radical" alt="vermaji" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anshulrazz/Link-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=Link-Analyzer&theme=radical" alt="Link-Analyzer" />
-  </a>
-  <a href="https://github.com/Anshulrazz/basaani">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=basaani&theme=radical" alt="basaani" />
-  </a>
-  <a href="https://github.com/Anshulrazz/sevenwonder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshulrazz&repo=sevenwonder&theme=radical" alt="sevenwonder" />
-  </a>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 🌐 [Geolocation](https://anshlocation.netlify.app)
