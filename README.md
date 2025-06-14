@@ -118,6 +118,18 @@ Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engin
 
 ## 📂 Featured Projects
 
+### 🏠 [SevenWonder.in](https://sevenwonder.in)
+A modern real estate platform providing property listings, advanced search, virtual property tours, and secure booking system.  
+**Tech Stack:** Next.js, Node.js, Express, MongoDB, Tailwind CSS, Docker, AWS EC2  
+**Features:**  
+- Property listing & filtering system  
+- Virtual property tours with rich media support  
+- Secure user authentication (JWT & OAuth)  
+- Booking inquiry system with admin control panel  
+- Fully containerized backend for scalable deployment  
+- SEO optimized for real estate market reach  
+- Fast performance & responsive design
+
 ### 🌐 [Geolocation](https://anshlocation.netlify.app)
 A simulated phishing demo capturing user geolocation with consent and logging coordinates to a secure endpoint.  
 **Tech Stack:** React, Node.js, Express, MongoDB, GeoIP APIs, Mapbox  
@@ -159,10 +171,9 @@ A RESTful backend for a student collaboration platform with real-time features.
 ## 🏆 Certifications & Achievements
 
 - 🎖️ **GitHub Achievements**: Pull Shark, Quickdraw, YOLO  
-- 🥇 **2× Winner**, GLA University Hackathons (2023, 2024) – Automated Vulnerability Scanner  
+- 🥇 **2× Winner**, GLA University Hackathons (2024, 2025) – Automated Vulnerability Scanner  
 - 📜 **AWS Certified Solutions Architect – Associate** (2024)  
 - 📜 **CompTIA Security+** (2023)  
-- 📜 **Cisco Certified CyberOps Associate** (2023)  
 - 🎓 **Academic Excellence**: 82.4% in 10th & 12th Grades  
 
 ---
