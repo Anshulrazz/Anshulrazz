@@ -45,7 +45,7 @@ I’m a **full-stack developer** and **cybersecurity enthusiast** focused on bui
 <br/><br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Anshulrazz"
+  src="[https://github-readme-streak-stats.herokuapp.com?user=Anshulrazz](https://github-readme-streak-stats.herokuapp.com/?user=Anshulrazz)"
   width="75%"
 />
 
