@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anshul+Kumar;+Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;CSE+(BCA)+Student+%40+GLA+University;Secure+Code+%7C+Scalable+Systems+%7C+Cloud+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Anshul+Kumar;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;CSE+(BCA)+Student+%40+GLA+University;Secure+Code+%7C+Scalable+Systems+%7C+Cloud+Security" />
+
 
 <br/><br/>
 
