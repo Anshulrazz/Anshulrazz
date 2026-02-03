@@ -1,225 +1,147 @@
 <!--
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃     Welcome to the GitHub Profile of Anshulrazz!     ┃
-  ┃  3rd-Year CSE • Full-Stack Dev • CyberSec Enthusiast  ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃        Welcome to the GitHub Profile of Anshulrazz     ┃
+┃   3rd-Year CSE • Full-Stack Developer • CyberSec       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 -->
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- GitHub stats section -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=Anshulrazz&style=flat-square&color=1E90FF" alt="Profile Views" />
-      <a href="https://github.com/Anshulrazz?tab=followers">
-        <img src="https://img.shields.io/github/followers/Anshulrazz?style=social" alt="Followers" />
-      </a>
-      <a href="https://github.com/Anshulrazz?tab=stars">
-        <img src="https://img.shields.io/github/stars/Anshulrazz?style=social" alt="Stars" />
-      </a>
-    </p>
-  </div>
 
-  <!-- Profile image -->
-  <div>
-    <img src="anshu.png" alt="Anshul's Profile" style="max-width: 150px; border-radius: 10px;">
-  </div>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anshulrazz&style=flat-square&color=1E90FF)
+[![Followers](https://img.shields.io/github/followers/Anshulrazz?style=social)](https://github.com/Anshulrazz?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Anshulrazz?style=social)](https://github.com/Anshulrazz?tab=stars)
+
+<img src="anshu.png" alt="Anshul Kumar" width="150" style="border-radius:12px"/>
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hello, I'm **Anshul Kumar** (_Anshulrazz_)—a 3rd-year **Computer Science Engineering** student from **Kasganj, Uttar Pradesh**, pursuing **BCA** at **GLA University, Mathura**. I'm a passionate **full-stack developer** and **cybersecurity enthusiast** dedicated to building **secure, scalable**, and **user-centric** web applications. As the **Founder** of **[AnshTech Solutions](https://anshtechsolutions.tech)**, I lead a startup focused on delivering innovative and secure web solutions.
+Hi, I'm **Anshul Kumar** (_Anshulrazz_) — a **3rd-year Computer Science Engineering student** pursuing **BCA** at **GLA University, Mathura**, from **Kasganj, Uttar Pradesh**.
 
-- 🛡️ **Founder** of **[AnshTech Solutions](https://anshtechsolutions.tech)**  
+I’m a **full-stack developer** and **cybersecurity enthusiast** passionate about building **secure, scalable, and high-performance** web applications. My core interests lie in **web security, cloud infrastructure, DevSecOps**, and **modern JavaScript ecosystems**. I enjoy working on real-world projects, experimenting with new technologies, and contributing to open-source communities.
+
 - 🔭 Working on a **Zero-Trust Security Dashboard** for real-time threat monitoring  
-- 🌱 Exploring **AI-driven intrusion detection systems** and **GraphQL APIs**  
-- 💡 Advocate for open-source and secure coding practices  
-- ⚡ **Fun Fact**: I debug code faster than I can debug my sleep schedule! 😴
+- 🌱 Exploring **AI-driven intrusion detection systems** & **GraphQL APIs**  
+- 🛡️ Strong interest in **Application Security, Cloud Security & DevSecOps**  
+- 💡 Advocate for **secure coding practices** and **clean architecture**  
+- ⚡ Fun fact: I debug code faster than I debug my sleep schedule 😴  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### 🔙 Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+### 🔙 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### ⚙️ DevOps & Cloud
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=google-bigquery&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-### 🔐 Cybersecurity Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
-![Nmap](https://img.shields.io/badge/-Nmap-004B94?logo=nmap&logoColor=white&style=flat-square)
-![Snort](https://img.shields.io/badge/-Snort-E41A1C?logo=snort&logoColor=white&style=flat-square)
-![Suricata](https://img.shields.io/badge/-Suricata-DA2025?logo=suricata&logoColor=white&style=flat-square)
-![Metasploit](https://img.shields.io/badge/-Metasploit-4E2A8E?logo=metasploit&logoColor=white&style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burp-suite&logoColor=white&style=flat-square)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=flat-square)
-
-### 🧰 Other Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B94?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-4E2A8E?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort-E41A1C?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-DA2025?style=flat-square)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshulrazz&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulrazz&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshulrazz&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulrazz&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshulrazz&theme=radical&hide_border=true" width="48%" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anshulrazz&theme=react-dark&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshulrazz&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anshulrazz&theme=react-dark&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏠 [SevenWonder.in](https://sevenwonder.in)
-A modern real estate platform providing property listings, advanced search, virtual property tours, and secure booking system.  
-**Tech Stack:** Next.js, Node.js, Express, MongoDB, Tailwind CSS, Docker, AWS EC2  
-**Features:**  
-- Property listing & filtering system  
-- Virtual property tours with rich media support  
-- Secure user authentication (JWT & OAuth)  
-- Booking inquiry system with admin control panel  
-- Fully containerized backend for scalable deployment  
-- SEO optimized for real estate market reach  
-- Fast performance & responsive design
+### 🏠 SevenWonder.in
+Modern real-estate platform with listings, search, virtual tours, and secure booking.  
+**Tech:** Next.js, Node.js, MongoDB, Tailwind, Docker, AWS  
 
-### 🌐 [Geolocation](https://anshlocation.netlify.app)
-A simulated phishing demo capturing user geolocation with consent and logging coordinates to a secure endpoint.  
-**Tech Stack:** React, Node.js, Express, MongoDB, GeoIP APIs, Mapbox  
-**Features:**  
-- Interactive real-time map interface  
-- JWT-based authentication  
-- Dockerized backend for portability  
-- Secure HTTPS endpoints  
+### 🌐 Geolocation Phishing Demo
+Consent-based geolocation capture & secure logging system.  
+**Tech:** React, Node.js, MongoDB, Mapbox  
 
-### 🖼️ [Background Remover](https://anshremove.onrender.com)
-AI-powered tool to remove image backgrounds instantly with a sleek drag-and-drop interface.  
-**Tech Stack:** React, Flask, OpenCV, TensorFlow, AWS S3  
-**Features:**  
-- Supports multiple image formats (PNG, JPEG, etc.)  
-- Asynchronous processing for large images  
-- Downloadable results with transparency  
-- Responsive UI with TailwindCSS  
+### 🖼️ Background Remover
+AI-powered background removal tool with drag-and-drop UI.  
+**Tech:** React, Flask, OpenCV, TensorFlow  
 
-### 🔗 [Link Analyzer](https://github.com/Anshulrazz/Link-Analyzer)
-A Next.js-based tool to analyze URLs for SEO, security headers, and performance metrics.  
-**Tech Stack:** Next.js, TypeScript, Puppeteer, Lighthouse, MongoDB  
-**Features:**  
-- Batch analysis for multiple URLs  
-- Detailed PDF reports with visualizations  
-- Customizable rule sets for compliance checks  
-- Integrated with Vercel for seamless deployment  
+### 🔗 Link Analyzer
+URL analyzer for SEO, security headers & performance.  
+**Tech:** Next.js, TypeScript, Puppeteer, Lighthouse  
 
-### 📊 [UniProject Network API](https://github.com/Anshulrazz/UniProject_NetworkB)
-A RESTful backend for a student collaboration platform with real-time features.  
-**Tech Stack:** Node.js, Express, MongoDB, Swagger, Socket.IO  
-**Features:**  
-- Role-based access control (RBAC)  
-- CRUD operations for projects and tasks  
-- Real-time notifications via WebSockets  
-- API documentation with Swagger UI  
+### 📊 UniProject Network API
+REST API for student collaboration with real-time features.  
+**Tech:** Node.js, Express, MongoDB, Socket.IO  
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🎖️ **GitHub Achievements**: Pull Shark, Quickdraw, YOLO  
-- 🥇 **2× Winner**, GLA University Hackathons (2024, 2025) – Automated Vulnerability Scanner  
-- 📜 **AWS Certified Solutions Architect – Associate** (2024)  
-- 📜 **CompTIA Security+** (2023)  
-- 🎓 **Academic Excellence**: 82.4% in 10th & 12th Grades  
-
----
-
-## 🎤 Speaking & Community Engagement
-
-- **Guest Speaker**, *Securing Modern Web Applications* @ DevCon’24, Mathura  
-- **Workshop Host**, *Hands-On Intrusion Detection with Snort & Suricata* @ GLA CyberSec Club  
-- **Panelist**, *The Future of Cloud Security* @ TechSummit’23, Delhi  
-- **Mentor**, Open-Source Contribution Bootcamp @ GLA University (2024)  
-
----
-
-## ✍️ Writing & Blog
-
-Explore my technical deep dives, tutorials, and cybersecurity insights:  
-👉 [anshulkumar.tech/blog](https://www.anshulkumar.tech/blog)  
-Recent Posts:  
-- *Zero-Trust Architecture: A Practical Guide*  
-- *Building Scalable APIs with GraphQL and Apollo Server*  
-- *Securing Your Node.js App Against OWASP Top 10 Vulnerabilities*  
+- 🥇 **2× Hackathon Winner**, GLA University (2024, 2025)  
+- 📜 **AWS Certified Solutions Architect – Associate (2024)**  
+- 📜 **CompTIA Security+ (2023)**  
+- 🎖️ GitHub Achievements: Pull Shark, Quickdraw, YOLO  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://anshtechsolutions.tech">
-    <img src="https://img.shields.io/badge/AnshTech%20Solutions-anshtechsolutions.tech-FF4500?style=flat-square" alt="AnshTech Solutions" />
-  </a>
-  <a href="https://www.anshulkumar.tech">
-    <img src="https://img.shields.io/badge/Portfolio-anshulkumar.tech-1E90FF?style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="[https://linkedin.com/in/anshulrazz](https://www.linkedin.com/in/anshul-kumar-b92421306/)">
-    <img src="https://img.shields.io/badge/LinkedIn-@anshulrazz-0A66C2?style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@anshulkumar.tech">
-    <img src="https://img.shields.io/badge/Email-contact@anshulkumar.tech-34C759?style=flat-square" alt="Email" />
-  </a>
-  <a href="[https://twitter.com/anshulrazz](https://x.com/anshul_000012)">
-    <img src="https://img.shields.io/badge/Twitter-@anshulrazz-1DA1F2?style=flat-square" alt="Twitter" />
-  </a>
+  <a href="https://www.anshulkumar.tech"><img src="https://img.shields.io/badge/Portfolio-anshulkumar.tech-1E90FF?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/anshul-kumar-b92421306/"><img src="https://img.shields.io/badge/LinkedIn-Anshul%20Kumar-0A66C2?style=flat-square"/></a>
+  <a href="mailto:contact@anshulkumar.tech"><img src="https://img.shields.io/badge/Email-contact@anshulkumar.tech-34C759?style=flat-square"/></a>
+  <a href="https://x.com/anshul_000012"><img src="https://img.shields.io/badge/Twitter-@anshul_000012-1DA1F2?style=flat-square"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code is like humor: when you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor: when you have to explain it, it’s bad." — Cory House</i>
 </p>
