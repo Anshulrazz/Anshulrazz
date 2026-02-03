@@ -1,4 +1,3 @@
-````md
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
@@ -34,7 +33,7 @@ Degree      : BCA (Computer Science Engineering)
 University  : GLA University, Mathura
 Location    : Kasganj, Uttar Pradesh, India
 Focus       : Full-Stack Development & Cybersecurity
-````
+```
 
 I’m a **developer who thinks like a security engineer**.
 I build **scalable, secure, and performance-driven** web applications with a strong focus on **cloud, DevSecOps, and application security**.
