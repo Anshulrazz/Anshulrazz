@@ -43,11 +43,28 @@ Interests  : Full-Stack, Cybersecurity, DevSecOps, Cloud
 
 <div align="center">
 
-<img src="https://www.readmecodegen.com/api/github-stats/svg?username=Anshulrazz&_t=1770094022495"/>
+<!-- Overall GitHub Stats -->
+<img 
+  src="https://www.readmecodegen.com/api/github-stats/svg?username=Anshulrazz&_t=1770094022495"
+  width="90%"
+/>
+
+<br/><br/>
+
+<!-- Languages & Streak -->
+<div align="center">
+  <img
+    src="https://www.readmecodegen.com/api/github-stats/svg?username=Anshulrazz&cardType=langs&_t=1770095326510"
+    width="45%"
+  />
+  <img
+    src="https://www.readmecodegen.com/api/github-stats/svg?username=Anshulrazz&cardType=streak&_t=1770095341987"
+    width="45%"
+  />
+</div>
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
