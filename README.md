@@ -28,31 +28,6 @@ I’m a **full-stack developer** and **cybersecurity enthusiast** focused on bui
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshulrazz"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshulrazz"
-  width="48%"
-/>
-
-<br/><br/>
-
-<img
-  src="[https://github-readme-streak-stats.herokuapp.com?user=Anshulrazz](https://github-readme-streak-stats.herokuapp.com/?user=Anshulrazz)"
-  width="75%"
-/>
-
-</div>
-
----
-
 ## 📊 Contribution Overview
 
 <div align="center">
