@@ -33,19 +33,19 @@ I’m a **full-stack developer** and **cybersecurity enthusiast** focused on bui
 <div align="center">
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshulrazz&show_icons=true&theme=radical&hide_border=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshulrazz"
   width="48%"
 />
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshulrazz&layout=compact&theme=radical&hide_border=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshulrazz"
   width="48%"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Anshulrazz&theme=radical&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Anshulrazz"
   width="75%"
 />
 
