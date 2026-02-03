@@ -28,14 +28,11 @@ I’m a **full-stack developer** and **cybersecurity enthusiast** focused on bui
 
 ---
 
-## 📊 Contribution Overview
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshulrazz&theme=radical"
-  width="95%"
-/>
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Anshulrazz&_t=1770094022495)
 
 </div>
 
@@ -85,14 +82,11 @@ I’m a **full-stack developer** and **cybersecurity enthusiast** focused on bui
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.anshulkumar.tech">
-    <img src="https://img.shields.io/badge/Portfolio-anshulkumar.tech-1E90FF?style=flat-square"/>
+  <a href="mailto:anshulverma6396@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anshulverma6396@gmail.com-34C759?style=flat-square"/>
   </a>
   <a href="https://www.linkedin.com/in/anshul-kumar-b92421306/">
     <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Kumar-0A66C2?style=flat-square"/>
-  </a>
-  <a href="mailto:contact@anshulkumar.tech">
-    <img src="https://img.shields.io/badge/Email-contact@anshulkumar.tech-34C759?style=flat-square"/>
   </a>
   <a href="https://x.com/anshul_000012">
     <img src="https://img.shields.io/badge/Twitter-@anshul_000012-1DA1F2?style=flat-square"/>
